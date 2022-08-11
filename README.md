@@ -1,0 +1,2 @@
+# password-generator
+The purpose of this website is to generate a random password. A prompt is given for the user to choose the length of their password, which must be between 8 and 128 characters. Then the user answers four confirms, which ask if they want their password to include lowercase letters, uppercase letters, numbers, and special characters. After answering the confirms, the user is shown a random password that is in accordance with the criteria that they selected. https://sclebron.github.io/password-generator/ 
